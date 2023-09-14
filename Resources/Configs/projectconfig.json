@@ -1,0 +1,26 @@
+{
+  "rooms": [
+    {
+      "id": 1,
+	  "type": "TestRoom",
+      "groupid": 1,
+      "name": "Test Room",
+      "address": "",
+      "description": "",
+      "customlabel": ""
+    }
+  ],
+  "touchpanels": [
+    {
+      "name": "Ch5",
+      "type": "Tsw1060",
+      "id": 1001,
+      "groupid": 0,
+      "description": "",
+      "address": "03",
+      "userinterface": {
+        "type": "Ch5UserInterface"
+      }
+    }
+  ]
+}
